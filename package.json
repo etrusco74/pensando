@@ -1,6 +1,6 @@
 {
   "name": "pensando",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sample app for heroku and gitHub continuos integration",
   "main": "server.js",
   "scripts": {
